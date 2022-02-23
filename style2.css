@@ -132,8 +132,8 @@ main form input[type="submit"]:hover {
 }
 
 section.images {
-    width: 50%;
     background-color: white;
+    width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -141,5 +141,6 @@ section.images {
 }
 
 section.images img {
-    width: 300px;
+    width: 480px;
+    height: 315px;
 }
