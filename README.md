@@ -1,5 +1,9 @@
-Register Screen - Dondaverse / Tela de Cadastro - Dondaverse
-Projeto realizado como estudo de HTML5 e CSS3.
+
+<div align="center">
+<h2>Projeto realizado como estudo de HTML5 e CSS3.</h2>
+<p>Register Screen - Dondaverse / Tela de Cadastro - Dondaverso</p>
+</div>
+
 
 
 
