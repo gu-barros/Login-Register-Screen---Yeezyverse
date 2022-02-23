@@ -1,4 +1,6 @@
 # html-css-login
  Login/Register Yeezyverse
 
-<img src="imagens/Print.PNG" alt="" >
+<div>
+<img src="imagens/Capture-dondaverse.PNG" alt="">
+</div>
